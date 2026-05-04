@@ -1,4 +1,4 @@
-# Supermarket Pricing Strategy Analysis
+# Supermarket Sales and Pricing Strategy Analysis
 
 ## Overview
 Analysis of 1000 supermarket transactions across 6 product 
