@@ -12,10 +12,10 @@ categories and 3 branches to find the optimal pricing strategy.
 Supermarket Sales dataset with 1000 transactions across 
 3 branches in Myanmar (Yangon, Mandalay, Naypyitaw)
 
-## Key Findings
-1. Sports and Travel is most price sensitive with elasticity of -13.45
+## Key Insights
+1. Sports and Travel is most price sensitive with elasticity of -13.45, indicating strong customer response to price changes
 2. Fashion Accessories is inelastic at -0.19 — safe to raise prices
-3. Branch C in Naypyitaw generates highest revenue of $110,568
+3. Branch C in Naypyitaw generates highest revenue of $110,568, indicating strong regional performance
 4. 5% discount on elastic categories projects significant revenue gain
 
 ## Project Structure
